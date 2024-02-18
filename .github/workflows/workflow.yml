@@ -8,10 +8,7 @@ on:
 jobs:
   build:
 
-    # The type of machine to run the job on
     runs-on: ubuntu-latest
 
     steps:
-      - name: Hello world
-        # Run Linter
         run: make say-hello
