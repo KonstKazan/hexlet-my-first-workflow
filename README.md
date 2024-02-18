@@ -1,2 +1,2 @@
-![example workflow](https://github.com/github/docs/actions/workflows/workflow.yml/badge.svg)
+[![Actions Status](https://github.com/KonstKazan/hexlet-my-first-workflow/actions/workflows/workflow.yml/badge.svg)](https://github.com/KonstKazan/hexlet-my-first-workflow/actions)
 hexlet-my-first-workflow
