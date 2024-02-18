@@ -26,4 +26,4 @@ jobs:
           php-version: '8.2'
       - name: Hello World
         # Install project
-        run: echo Hello World
+        run: make say-hello
