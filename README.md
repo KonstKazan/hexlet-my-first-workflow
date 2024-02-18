@@ -1,2 +1,2 @@
-https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
+![example workflow](https://github.com/github/docs/actions/workflows/workflow.yml/badge.svg)
 hexlet-my-first-workflow
